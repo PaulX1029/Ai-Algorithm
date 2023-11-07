@@ -31,7 +31,7 @@
 此文件夹下包含数据集等相关内容，待完善。
 
 ## Models
-按模型结构及种类存放，注意按照命名规范（https://docs.qq.com/doc/DSUlXbWhua1BydElG）。
+按模型结构及种类存放，注意按照命名规范。（https://docs.qq.com/doc/DSUlXbWhua1BydElG）
 
 模型命名规范须遵循以下几项规范：
 
