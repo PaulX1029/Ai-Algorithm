@@ -78,12 +78,12 @@
 - PersonOD_Yolov5s_640_300K_
 - FaceKpD_Retina_640_32K_
 
-### 5. 第五项：按照模型迭代版本时间命名
+### 5. 第五项：按照模型迭代时间命名
 
-根据模型训练完毕时的时间及模型迭代的版本次数进行命名，若为开源通用模型则无需注明，例：
+根据模型训练完毕时模型迭代的时间进行命名，若为开源通用模型则无需注明，例：
 
-- PersonOD_Yolov5s_640_300K_230101v1.pt
-- FacemaskOD_Yolov5s_640_17K_230214v4.pt
+- PersonOD_Yolov5s_640_300K_230101.pt
+- FacemaskOD_Yolov5s_640_17K_230214.pt
 - FaceFeasE_Arcface_112.bmodel
 - PersonKpD_Yolopose_640.onnx
 
