@@ -27,8 +27,8 @@
   - **v8-Original**：包含原始的 YOLOv8 算法实现（源码禁止改动，并附上版本及原始github带分支及tag的链接）。
     - **ultralytics**：
 
-## Datastes
+## Datastes 
 此文件夹下包含数据集等相关内容，待完善。
 
 ## Models
-按模型结构及种类存放，注意按照命名规范。
+按模型结构及种类存放，注意按照命名规范（https://docs.qq.com/doc/DSUlXbWhua1BydElG）。
